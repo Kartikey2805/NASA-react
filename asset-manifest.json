@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NASA-react/static/css/main.442a9a64.css",
+    "main.js": "/NASA-react/static/js/main.ed8d205a.js",
+    "index.html": "/NASA-react/index.html",
+    "main.442a9a64.css.map": "/NASA-react/static/css/main.442a9a64.css.map",
+    "main.ed8d205a.js.map": "/NASA-react/static/js/main.ed8d205a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442a9a64.css",
+    "static/js/main.ed8d205a.js"
+  ]
+}
